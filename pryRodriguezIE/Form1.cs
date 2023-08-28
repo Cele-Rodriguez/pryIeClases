@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace pryRodriguezIE
 {
-    public partial class Form1 : Form
+    public partial class frmBrokerSeguros : Form
     {
-        public Form1()
+        public frmBrokerSeguros()
         {
             InitializeComponent();
         }
